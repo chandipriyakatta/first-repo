@@ -1,6 +1,0 @@
-A Aardvark 
-B Bat 
-C Crow
-C Cat 
-D Duck 
-E Eagle
